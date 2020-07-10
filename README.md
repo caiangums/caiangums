@@ -1,8 +1,8 @@
 ## 👋 Hello there
 
-My name is Ilê Caian and I'm passionate about learning and create.
+My name is Ilê Caian and I'm passionate about 📚learning and 🔭create
 
-I'm Currently working as Front-end Web Developer and have 🎓Bachelor in Computer Science.
+I'm currently working as Front-end Web Developer. I'm also a 🎓Bachelor in Computer Science
 
 ### ⚙️ I have experience with
 - JavaScript
