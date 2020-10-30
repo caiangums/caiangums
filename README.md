@@ -2,15 +2,13 @@
 
 My name is Ilê Caian and I'm passionate about 📚learning and 🔭create
 
-I'm currently working as Front-end Web Developer. I'm also a 🎓Bachelor in Computer Science
+I'm currently working as Software Engineer. I'm also a 🎓Bachelor in Computer Science
 
 ### ⚙️ I have experience with
-- JavaScript
-- CSS
-- HTML
-- React
+- HTML/CSS and JavaScript
+- React, Redux
 - React Native
-- Redux
+- NodeJS
 - Webpack
 
 ### 💬 I like to discuss about
@@ -26,4 +24,4 @@ I'm `@caiangums` everywhere:
 
 - [LinkedIn](https://www.linkedin.com/in/caiangums)
 - [DEV.to](https://dev.to/caiangums)
-- [Twitter](https://twitter.com/caiangums)
+- [twitter](https://twitter.com/caiangums)
